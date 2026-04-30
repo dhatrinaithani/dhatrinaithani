@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Dhatri Naithani 👋
 
-<!--
-**dhatrinaithani/dhatrinaithani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BTech Student  
+💻 MERN Stack Developer  
+📈 Solving DSA on LeetCode 
+🤖 AI Enthusiast
 
-Here are some ideas to get you started:
+## 🚀 Tech Stack
+- Frontend: React, HTML, CSS, JavaScript  
+- Backend: Node.js, Express  
+- Database: MongoDB  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Projects
+
+
+## 📫 Connect with me
+- LinkedIn: linkedin.com/in/dhatri-naithani-9a6690297
+- Email: dhatrin2004@gmail.com
